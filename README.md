@@ -10,7 +10,7 @@
 3. 개인의 MBTI에 맞는 사람과 여행 매칭
 
 개요
-여행 계획을 세울 때, 효율적으로 스케줄을 관리할 수 있게 도와주며 여러 사람들과 일정을 공휴할 수 있으며 여행 메이트를 원하는 사람에게 원하는 MBTI에 맞는 사람들을 매칭해준다.
+- 여행 계획을 세울 때, 효율적으로 스케줄을 관리할 수 있게 도와주며 여러 사람들과 일정을 공휴할 수 있으며 여행 메이트를 원하는 사람에게 원하는 MBTI에 맞는 사람들을 매칭해준다.
 
 Language
 - Java 11
@@ -48,3 +48,20 @@ ERD
 |숙박 추가 |여행 스케줄 작성 시 머무를 숙박 시설을 검색 혹은 추천을 통해 한 곳을 정한 후 추가하여 계획을 짤 수 있습니다.|
 |스케쥴 작성 지역 선택|여행 스케줄 작성 전 어느 곳으로 여행을 떠날지 해당 지역을 선택합니다. 선택한 지역을 기준으로 맵을 로딩한 후 교통, 숙박 시설, 여행지 등 정보 또한 해당 지역을 기준으로만 보여줍니다.|
 
+
+<details>
+    <summary>구현기능 화면</summary>
+
+![image](https://github.com/io030/TwoRavel/assets/114460492/725bdfe1-c595-45d9-b641-fe69d67991f3)
+
+![image](https://github.com/io030/TwoRavel/assets/114460492/64a263fa-4a80-418a-ab5e-26f734d2d914)
+
+![image](https://github.com/io030/TwoRavel/assets/114460492/eb39942d-f4d7-49ab-a797-0748a48bbedc)
+
+![image](https://github.com/io030/TwoRavel/assets/114460492/4336d7f1-7d51-40f7-815a-e9e4a456dded)
+
+![image](https://github.com/io030/TwoRavel/assets/114460492/2db9bd10-1ef7-4f6d-bb74-def7c2d20c5b)
+
+![image](https://github.com/io030/TwoRavel/assets/114460492/c6039310-aa83-470e-94db-a709b91f437f)
+
+</details>
